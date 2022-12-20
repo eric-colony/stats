@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/joeyrestaurants.com.ico",
     "slug": "joey",
     "status": "down",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
+    "uptime": "83.75%",
+    "uptimeDay": "83.75%",
+    "uptimeWeek": "83.75%",
+    "uptimeMonth": "83.75%",
+    "uptimeYear": "83.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-20": 2
+      "2022-12-20": 32
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://houseconcepts.com/",
     "icon": "https://icons.duckduckgo.com/ip3/houseconcepts.com.ico",
     "slug": "house",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2022-12-20": 0
+    }
   },
   {
     "name": "Colony",
