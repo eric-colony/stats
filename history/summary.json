@@ -4,19 +4,19 @@
     "url": "https://localpubliceatery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/localpubliceatery.com.ico",
     "slug": "local",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 388,
-    "timeWeek": 332,
-    "timeMonth": 267,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 270,
+    "timeDay": 257,
+    "timeWeek": 307,
+    "timeMonth": 263,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 10
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://aragon.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/aragon.ca.ico",
     "slug": "aragon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 548,
-    "timeWeek": 1074,
-    "timeMonth": 585,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 573,
+    "timeDay": 380,
+    "timeWeek": 988,
+    "timeMonth": 574,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 10
     }
   },
   {
