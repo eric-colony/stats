@@ -4,19 +4,19 @@
     "url": "https://localpubliceatery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/localpubliceatery.com.ico",
     "slug": "local",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 1138,
-    "timeWeek": 975,
-    "timeMonth": 1133,
-    "timeYear": 514,
+    "time": 515,
+    "timeDay": 981,
+    "timeWeek": 956,
+    "timeMonth": 1124,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 7
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2023-09-29": 801,
+      "2023-09-29": 808,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
