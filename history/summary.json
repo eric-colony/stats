@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 747,
-    "timeDay": 64,
-    "timeWeek": 324,
-    "timeMonth": 327,
-    "timeYear": 633,
+    "time": 745,
+    "timeDay": 403,
+    "timeWeek": 367,
+    "timeMonth": 324,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2024-04-30": 57
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 528,
-    "timeDay": 241,
-    "timeWeek": 504,
-    "timeMonth": 496,
+    "time": 529,
+    "timeDay": 611,
+    "timeWeek": 552,
+    "timeMonth": 495,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2024-01-30": 25,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 721,
-    "timeDay": 1772,
-    "timeWeek": 4314,
-    "timeMonth": 2265,
-    "timeYear": 896,
+    "time": 722,
+    "timeDay": 1407,
+    "timeWeek": 4256,
+    "timeMonth": 2272,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2024-11-04": 37,
       "2024-10-08": 16,
@@ -65,8 +65,7 @@
       "2024-07-12": 16,
       "2024-07-09": 26,
       "2024-05-07": 19,
-      "2024-01-10": 17,
-      "2023-12-05": 17
+      "2024-01-10": 17
     }
   },
   {
@@ -75,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/joeyrestaurants.com.ico",
     "slug": "joey",
     "status": "up",
-    "uptime": "58.91%",
+    "uptime": "58.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.39%",
+    "uptimeYear": "72.66%",
     "time": 719,
-    "timeDay": 276,
-    "timeWeek": 370,
-    "timeMonth": 386,
+    "timeDay": 591,
+    "timeWeek": 429,
+    "timeMonth": 388,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2024-05-22": 17,
@@ -184,8 +183,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -194,18 +192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aragon.ca.ico",
     "slug": "aragon",
     "status": "down",
-    "uptime": "52.96%",
+    "uptime": "52.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.24%",
-    "time": 169,
-    "timeDay": 79,
-    "timeWeek": 75,
+    "uptimeYear": "7.97%",
+    "time": 168,
+    "timeDay": 83,
+    "timeWeek": 80,
     "timeMonth": 84,
-    "timeYear": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {
-      "2024-12-03": 104,
+      "2024-12-04": 105,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -541,8 +540,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 247,
       "2023-12-27": 1305,
-      "2023-12-26": 1072,
-      "2023-12-05": 16
+      "2023-12-26": 1072
     }
   },
   {
@@ -556,10 +554,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 347,
-    "timeDay": 464,
-    "timeWeek": 545,
-    "timeMonth": 511,
+    "time": 348,
+    "timeDay": 581,
+    "timeWeek": 597,
+    "timeMonth": 510,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2024-09-09": 39,
