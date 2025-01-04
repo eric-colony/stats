@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 695,
-    "timeDay": 60,
-    "timeWeek": 165,
-    "timeMonth": 313,
-    "timeYear": 559,
+    "time": 693,
+    "timeDay": 420,
+    "timeWeek": 211,
+    "timeMonth": 314,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2024-04-30": 57
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 163,
-    "timeWeek": 893,
-    "timeMonth": 646,
-    "timeYear": 558,
+    "time": 542,
+    "timeDay": 659,
+    "timeWeek": 950,
+    "timeMonth": 648,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-01-30": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 816,
-    "timeDay": 2089,
-    "timeWeek": 3286,
-    "timeMonth": 2166,
-    "timeYear": 1051,
+    "time": 819,
+    "timeDay": 1906,
+    "timeWeek": 3218,
+    "timeMonth": 2181,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-01-01": 22,
       "2024-11-04": 37,
@@ -74,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/joeyrestaurants.com.ico",
     "slug": "joey",
     "status": "up",
-    "uptime": "60.62%",
+    "uptime": "60.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.88%",
+    "uptimeYear": "81.15%",
     "time": 687,
-    "timeDay": 249,
-    "timeWeek": 308,
-    "timeMonth": 415,
+    "timeDay": 498,
+    "timeWeek": 350,
+    "timeMonth": 412,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2024-05-22": 17,
@@ -152,8 +152,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -162,18 +161,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aragon.ca.ico",
     "slug": "aragon",
     "status": "down",
-    "uptime": "50.76%",
+    "uptime": "50.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.21%",
-    "time": 155,
-    "timeDay": 74,
-    "timeWeek": 79,
-    "timeMonth": 85,
+    "uptimeYear": "0.00%",
+    "time": 153,
+    "timeDay": 67,
+    "timeWeek": 81,
+    "timeMonth": 84,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2025-01-03": 96,
+      "2025-01-04": 87,
+      "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -536,8 +536,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -552,9 +551,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 361,
-    "timeDay": 248,
-    "timeWeek": 367,
-    "timeMonth": 531,
+    "timeDay": 641,
+    "timeWeek": 413,
+    "timeMonth": 533,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2024-09-09": 39,
