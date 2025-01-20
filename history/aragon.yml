@@ -1,7 +1,7 @@
 url: https://aragon.ca/
-status: up
-code: 200
-responseTime: 1270
-lastUpdated: 2025-01-20T23:34:20.607Z
+status: down
+code: 403
+responseTime: 59
+lastUpdated: 2025-01-20T23:42:54.308Z
 startTime: 2022-12-21T21:27:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
