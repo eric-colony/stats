@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/joeyrestaurants.com.ico",
     "slug": "joey",
     "status": "up",
-    "uptime": "63.48%",
+    "uptime": "63.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
@@ -105,17 +105,17 @@
     "url": "https://aragon.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/aragon.ca.ico",
     "slug": "aragon",
-    "status": "up",
+    "status": "down",
     "uptime": "97.13%",
-    "uptimeDay": "34.19%",
-    "uptimeWeek": "15.46%",
-    "uptimeMonth": "24.25%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "15.73%",
+    "uptimeMonth": "24.29%",
     "uptimeYear": "93.69%",
     "time": 327,
-    "timeDay": 630,
-    "timeWeek": 570,
+    "timeDay": 602,
+    "timeWeek": 567,
     "timeMonth": 545,
-    "timeYear": 347,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2025-03-02": 615,
       "2025-03-01": 908,
@@ -142,7 +142,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1200,
-      "2025-02-05": 97
+      "2025-02-05": 76
     }
   },
   {
