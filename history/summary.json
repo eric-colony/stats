@@ -103,16 +103,16 @@
     "url": "https://aragon.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/aragon.ca.ico",
     "slug": "aragon",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "19.65%",
-    "uptimeWeek": "28.24%",
-    "uptimeMonth": "68.30%",
-    "uptimeYear": "97.36%",
-    "time": 366,
-    "timeDay": 626,
-    "timeWeek": 624,
-    "timeMonth": 590,
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "20.74%",
+    "uptimeWeek": "28.40%",
+    "uptimeMonth": "68.71%",
+    "uptimeYear": "97.39%",
+    "time": 365,
+    "timeDay": 609,
+    "timeWeek": 622,
+    "timeMonth": 589,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-03-05": 797,
@@ -126,8 +126,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1422,
-      "2025-02-22": 1310,
-      "2025-02-21": 4
+      "2025-02-22": 1134
     }
   },
   {
